@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="headingName">Beatles Anthology Vol. 1</string>
+    <string name="leftContent">
+        Behind That Locked Door: Beatles Rarities!
+    </string>
+    <string name="rightContent">
+        In a vault deep inside in Abbey Road Studios in London - protected by an unmarked, triple-locked, police alarmed door are something like
+        400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be
+        album. The best of which are found on the Yellow Dog label. However, the best of the best were finally released by Apple Records in the
+        form of the 3-volume Anthology series (at left) which offers out-takes and historical recordings that represent a milestone in classic
+        rock. There are many interesting arrangements for songs that are much different than the released versions,
+        and numerous "layered" out-takes demonstrating the various layers of overdubbing that was required for such experimentation
+        when using the primitive 4-track equipment of that time.
+This volume starts with the first "new" Beatle song, "Free as a Bird" (based on a John Lennon demo, found only on the bootleg ,AeuThe Lost
+        LennonTapes Vol. 28,Aeu), and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from
+        early concerts and BBC Radio sessions. In a vault deep inside in Abbey Road Studios in London - protected by an unmarked, triple-locked, police alarmed door are something like
+        400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be
+        album. The best of which are found on the Yellow Dog label. However, the best of the best were finally released by Apple Records in the
+        form of the 3-volume Anthology series (at left) which offers out-takes and historical recordings that represent a milestone in classic
+        rock. There are many interesting arrangements for songs that are much different than the released versions,
+        and numerous "layered" out-takes demonstrating the various layers of overdubbing that was required for such experimentation
+        when using the primitive 4-track equipment of that time.
+This volume starts with the first "new" Beatle song, "Free as a Bird" (based on a John Lennon demo, found only on the bootleg ,AeuThe Lost
+        LennonTapes Vol. 28,Aeu), and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from
+        early concerts and BBC Radio sessions.
+    </string>
+</resources>
