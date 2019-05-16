@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/editTextUri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_uri"/>
+    
+    <Button
+        android:id="@+id/btnUri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:text="@string/button_uri"
+        android:onClick="openUri"/>
+
+    <EditText
+        android:id="@+id/editTextLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_loc"/>
+
+    <Button
+        android:id="@+id/btnLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:text="@string/button_loc"
+        android:onClick="btnLocation"/>
+
+    <EditText
+        android:id="@+id/EditTextShare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_share"/>
+
+    <Button
+        android:id="@+id/btnShare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_share"
+        android:layout_marginBottom="24dp"
+        android:onClick="btnShare"/>
+
+    <Button
+        android:id="@+id/btnCamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_camera"
+        android:onClick="btnCamera"/>
+
+</LinearLayout>
